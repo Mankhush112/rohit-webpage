@@ -131,7 +131,7 @@ function displayBooks(bookList = books) {
 }
 
 
-// Update Dashboard Statistics
+// Add library dashboard statistics
 
 function updateStats() {
 
