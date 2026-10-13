@@ -273,7 +273,7 @@ function returnBook(id) {
 }
 
 
-// Delete Book
+// Add delete book functionality
 
 function deleteBook(id) {
 
