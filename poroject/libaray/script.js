@@ -1,4 +1,4 @@
-// Default Books
+// Add default library books
 
 let books = JSON.parse(localStorage.getItem("libraryBooks")) || [
 
@@ -44,7 +44,7 @@ function saveBooks() {
 }
 
 
-// Display Books
+// Display Books listing table
 
 function displayBooks(bookList = books) {
 
@@ -131,7 +131,7 @@ function displayBooks(bookList = books) {
 }
 
 
-// Update Dashboard Statistics
+// Add library dashboard statistics
 
 function updateStats() {
 
@@ -161,7 +161,7 @@ function updateStats() {
 }
 
 
-// Add New Book
+// Add New Book functionality
 
 document
     .getElementById("bookForm")
@@ -223,7 +223,7 @@ document
     });
 
 
-// Issue Book
+// Issue Book features
 
 function issueBook(id) {
 
@@ -248,7 +248,7 @@ function issueBook(id) {
 }
 
 
-// Return Book
+// Return Book features
 
 function returnBook(id) {
 
@@ -273,7 +273,7 @@ function returnBook(id) {
 }
 
 
-// Delete Book
+// Add delete book functionality
 
 function deleteBook(id) {
 
@@ -308,7 +308,7 @@ function deleteBook(id) {
 }
 
 
-// Search Books
+// Implement books search
 
 document
     .getElementById("searchInput")
