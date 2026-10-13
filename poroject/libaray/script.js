@@ -308,7 +308,7 @@ function deleteBook(id) {
 }
 
 
-// Search Books
+// Implement books search
 
 document
     .getElementById("searchInput")
