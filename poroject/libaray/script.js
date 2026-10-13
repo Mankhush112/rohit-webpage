@@ -44,7 +44,7 @@ function saveBooks() {
 }
 
 
-// Display Books
+// Display Books listing table
 
 function displayBooks(bookList = books) {
 
