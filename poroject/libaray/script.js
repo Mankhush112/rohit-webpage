@@ -223,7 +223,7 @@ document
     });
 
 
-// Issue Book features
+// Issue Book features 
 
 function issueBook(id) {
 
