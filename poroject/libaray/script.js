@@ -349,6 +349,6 @@ document
     });
 
 
-// Load Books when page opens
+// Load Books when page opens 
 
 displayBooks();
