@@ -248,7 +248,7 @@ function issueBook(id) {
 }
 
 
-// Return Book features
+// Return Book features 
 
 function returnBook(id) {
 
