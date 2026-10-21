@@ -160,7 +160,7 @@ function updateStats() {
 }
 
 
-// Add New Book functionality
+// Add New Book functionality 
 
 document
     .getElementById("bookForm")
